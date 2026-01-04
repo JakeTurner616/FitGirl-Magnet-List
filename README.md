@@ -1,7 +1,7 @@
 # FitGirl-Repack-List
 
 A script to isolate magnet links from https://fitgirl-repacks.site/all-my-repacks-a-z/
-
+added error handling & removed need to manually set the number of pages to download. 
 # Usage
 ```
 python magnets.py > out.txt
